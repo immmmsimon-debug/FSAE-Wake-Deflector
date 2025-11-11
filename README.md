@@ -1,2 +1,15 @@
 # FSAE-Wake-Deflector
 This component was made to control the wake/bad air coming from the tires in order to increase the performance of the undertray during cornnering and straight. 
+
+In order to prevent the side channel from losing downforce, we need to control the air that is coming the side channel. Due to the proximity of the side channel inlet and the wheel, there is not a lot of option on side channel design that will help use filter the air like how a Formula 1 car would have. Thus the solution would to make a additional aerodynamic components that sole job is to help the side channel, similar to how a f1 barge board. 
+
+## Fundamentals: 
+  - The way that we can shield the inlet is that we can put a wall to block the dirty air coming from the tires or redirect air using airfoils.
+  - Furthermore the sidechannel peformance can be improve using vortecies shown in this article:
+      https://www.racetechmag.com/2017/08/willem-toet-explains-motorsport-diffusers/
+## CFD Images
+
+  <img width="293" height="103" alt="Screenshot 2025-11-10 at 5 33 16 PM" src="https://github.com/user-attachments/assets/880d3df7-3556-495c-ba17-ed1ca7729552" />
+
+  
+
