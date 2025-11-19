@@ -48,9 +48,17 @@ Adjusting vortex placement so it travels through regions of favorable pressure g
     <img width="460" height="380" alt="bottom" src="https://github.com/user-attachments/assets/21372fe8-0307-48ff-8660-0019dbce9d0c" />
 
   </p>
+
+- Due to the deadline that we have a limited resource the CFD is run in a 6 degree yaw enviroment with air speed of 15m/s. This was taken from the average yaw angle that we have experience during previous competition. 
  
-## Iteration 6 - 14 
-  Some way we can solve this by either creating a stronger vortex or to relocate the vortex. In order to create a strong vortex I utilze the pressure diffenrece create by a airfoil geometry. Furthermore due to the shape there is less likely a chance of flow seperation from the airfoil meaning that it will be able to operate at various yaw angle. 
+## Iteration 6-17 Concepts
+  Some way we can solve this by either creating a stronger vortex or to relocate the vortex. In order to create a strong vortex I utilze the pressure diffenrece create by a airfoil geometry. Furthermore due to the shape there is less likely a chance of flow seperation from the airfoil meaning that it will be able to operate at various yaw angle. However the vortex cannot be to large since the side channel nozzle  might cause the vortex to burst, and ruin air flow. 
+
+  ### Iteration 6
+  
+  
+
+## Iteration 18 
   
 
   
