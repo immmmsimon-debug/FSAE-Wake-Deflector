@@ -55,11 +55,113 @@ Adjusting vortex placement so it travels through regions of favorable pressure g
   Some way we can solve this by either creating a stronger vortex or to relocate the vortex. In order to create a strong vortex I utilze the pressure diffenrece create by a airfoil geometry. Furthermore due to the shape there is less likely a chance of flow seperation from the airfoil meaning that it will be able to operate at various yaw angle. However the vortex cannot be to large since the side channel nozzle  might cause the vortex to burst, and ruin air flow. 
 
   ### Iteration 6
+
+  ### Iteration 7
+
+  ### Iteration 8
+
+  ### Iteration 9
+
+  ### Iteration 10
+
+  ### Iteration 11
+
+  ### Iteration 12
+
+  ### Iteration 13
+
+  ### Iteration 14
+
+  ### Iteration 15
+
+  ### Iteration 16
+
+  ### Iteration 17 
+
+  ### Iteration 18
+
+  ### Iteration 19
+
+  ### Iteration 20
+
+  ### Iteration 21
+
+  ### Iteration 22
+
+  ### Iteration 23
+
+  ### Iteration 24
+
+  ### Iteration 25
+
+  ### Iteration 26
+
+  ### Iteration 27
+
+  ### Iteration 28
+
+  ### Iteration 29
+
+  ### Iteration 30
+
+  ### Iteration 31
+
+  ### Iteration 32
+
+  ### Iteration 33
+
+  ### Iteration 34
+
+  ### Iteration 35
+
+  ### Iteration 36
+
+  ### Iteration 37
+
+  ### Iteration 38
+
+  ### Iteration 39
+
+  ### Iteration 40
+
+  ### Iteration 41
+
+  ### Iteration 42
+
+  ### Iteration 43
+
+  ### Iteration 44
+
+  ### Iteration 45
+
+  ### Iteration 46
+
+  ### Iteration 47
+
+  ### Iteration 48
+
+  ### Iteration 49
+
+  ### Iteration 50
+
+  ### Iteration 51
+
+  ### Iteration 52
+
+  ### Iteration 53
+
+  ### Iteration 54
+
+  ### Iteration 55
+  
   
   
 
-## Iteration 18 
+### Iteration 18 
   
 
-  
+### Iteration 52 
+
+
+
 
