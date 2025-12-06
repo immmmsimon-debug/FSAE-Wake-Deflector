@@ -54,113 +54,30 @@ Adjusting vortex placement so it travels through regions of favorable pressure g
 ## Iteration 6-17 Concepts
   Some way we can solve this by either creating a stronger vortex or to relocate the vortex. In order to create a strong vortex I utilze the pressure diffenrece create by a airfoil geometry. Furthermore due to the shape there is less likely a chance of flow seperation from the airfoil meaning that it will be able to operate at various yaw angle. However the vortex cannot be to large since the side channel nozzle  might cause the vortex to burst, and ruin air flow. 
 
-  ### Iteration 6
+## Iteration 6-17 Result
+  The result where good however, due to the way that the airfoil is mounted I had to cut into the airfoil which result in flow seperation and unwanted turbulance air entering the side channel. Thus is would not be a good implementaiont, however this concept will still be keep in mind. 
 
-  ### Iteration 7
+** Due to the continous change to CFD settings more up to date runs are not comparable to run at the start. Due to the fact that we would need to cut the airfoil in order to mount it, we assume that it will cost flow seperation, thus did not re run the airfoil concept with more up to date settings. **
 
-  ### Iteration 8
+## Iteration 18 - 46
 
-  ### Iteration 9
+  Tyring to avoid the vertical airfoil, these iteration rely on a curve flat plate similar to that of old f1 barge board: simple, easy to mount. 
+  <p align="center">
+  <img width="460" height="380" alt="Screenshot 2025-12-05 at 7 08 22 PM" src="https://github.com/user-attachments/assets/b91a73d3-02a8-41cd-be67-d270359f9de2" />
+  </p>
 
-  ### Iteration 10
+  The concept worked well and was able to generate a powerful vortex however, the vortex generated was dying due to the lack of clean air. This is cause by the agressive curve that these delflector have in order to generate a stronge vortex, but in that process the tire wake was able to get under the curve and into the side channel, thus straving the delfector vortex. 
 
-  ### Iteration 11
 
-  ### Iteration 12
+## Iteration 47 - 80++ ( This concept is still being develop and optimize)
 
-  ### Iteration 13
+  Due to the fact that the flat plate worked really well, I used that concept as a foundation. In order to create a strong vortex without pulling in the wake of the tire, I need to have the deflector closer to the chassis in order to position the vortex further from the tire wake. However this leave the side channel inlet open that allow the wake to enter the side channel. Thus why not have 2 deflector, one deflector will on the outside(outboard), smaller and place close to the tire in order to stop the wake from getting into the side channel and the second one (inboard) will be place closer to the chassis due to the front wing main plain provding clean airflow 
 
-  ### Iteration 14
 
-  ### Iteration 15
 
-  ### Iteration 16
 
-  ### Iteration 17 
 
-  ### Iteration 18
 
-  ### Iteration 19
-
-  ### Iteration 20
-
-  ### Iteration 21
-
-  ### Iteration 22
-
-  ### Iteration 23
-
-  ### Iteration 24
-
-  ### Iteration 25
-
-  ### Iteration 26
-
-  ### Iteration 27
-
-  ### Iteration 28
-
-  ### Iteration 29
-
-  ### Iteration 30
-
-  ### Iteration 31
-
-  ### Iteration 32
-
-  ### Iteration 33
-
-  ### Iteration 34
-
-  ### Iteration 35
-
-  ### Iteration 36
-
-  ### Iteration 37
-
-  ### Iteration 38
-
-  ### Iteration 39
-
-  ### Iteration 40
-
-  ### Iteration 41
-
-  ### Iteration 42
-
-  ### Iteration 43
-
-  ### Iteration 44
-
-  ### Iteration 45
-
-  ### Iteration 46
-
-  ### Iteration 47
-
-  ### Iteration 48
-
-  ### Iteration 49
-
-  ### Iteration 50
-
-  ### Iteration 51
-
-  ### Iteration 52
-
-  ### Iteration 53
-
-  ### Iteration 54
-
-  ### Iteration 55
-  
-  
-  
-
-### Iteration 18 
-  
-
-### Iteration 52 
 
 
 
