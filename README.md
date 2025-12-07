@@ -22,6 +22,11 @@ As the vortex interacts with the ground plane and side channel walls, shear laye
 Reference: Willem Toet, “Motorsport Diffusers,” Racetech Magazine, 2017.
 (https://www.racetechmag.com/2017/08/willem-toet-explains-motorsport-diffusers/)
 
+### Constraint
+  Due to the fact that this will be mounted on the A-Arm, it need to be design in a way that will allow us to remove the deflector in a quick manner. This mean that this component will be made in multiple small pieces and put together arround A-Arm, 
+  
+  Futhermore due to the fact that the deflector is so close to the ground, it need to be able to withstand scraping on the ground due to ride height variation. Furthermore, due to the fact that the component is made of carbon fiber honeycomb, it have to be ensure that it needs to avoid fastener shear out if it hits the ground.
+
 
 ## CFD Images of Baseline Design
 
@@ -71,9 +76,33 @@ Adjusting vortex placement so it travels through regions of favorable pressure g
 
 ## Iteration 47 - 80++ ( This concept is still being develop and optimize)
 
-  Due to the fact that the flat plate worked really well, I used that concept as a foundation. In order to create a strong vortex without pulling in the wake of the tire, I need to have the deflector closer to the chassis in order to position the vortex further from the tire wake. However this leave the side channel inlet open that allow the wake to enter the side channel. Thus why not have 2 deflector, one deflector will on the outside(outboard), smaller and place close to the tire in order to stop the wake from getting into the side channel and the second one (inboard) will be place closer to the chassis due to the front wing main plain provding clean airflow 
+  Due to the fact that the flat plate worked really well, I used that concept as a foundation. In order to create a strong vortex without pulling in the wake of the tire, I need to have the deflector closer to the chassis in order to position the vortex further from the tire wake. However this leave the side channel inlet open that allow the wake to enter the side channel. Thus why not have 2 deflector, one deflector will on the outside(outboard), smaller and place close to the tire in order to stop the wake from getting into the side channel and the second one (inboard) will be place closer to the chassis due to the front wing main plain provding clean airflow. 
+  Futhermore what we can do it to generate a vortex that will lift the dirty air away from the side channel foot plate, thus providing the side channel with clean air that will add more energy and create more downforce. 
+  Due to the fact that this element is mounted in the suspension geometry, there are certain area where airflow will be bad, thus we should try to ignore the suspension by making it taller than the geometry. Now to make the upper vortex stronger we need a more agressive curve, however if we were to increase the curve lenght or angle the wheels will hit the deflector while turning, this the upper part is shifted toward the chassis even more. so that even though the top and bottom will end at the same place, the agressiveness of the curvature will be different. 
+  However due to the fact that the upper vortex is generated so high above the side channel the desire effect would be less effective this we need something to drag down the vortex. Thus we can use a lift generating airfoil in order to create a downwash effect that will drag the vortex down with it. 
+  
+
+https://github.com/user-attachments/assets/98aec044-a053-49ec-971a-1726bc14465b
 
 
+
+https://github.com/user-attachments/assets/e93339f5-973d-4e4d-87fe-c4102ed329bd
+
+  
+
+  As shown in the video, the outboard is controling the tire wake and preventing it from entering the side channel, not only that it is also creating a outwash that allow more clean air to enter the sidechannel later downstream. This allow the inboard to generate a powerful vortex that survive the entire side channel. Comparing to the baseline this set up was able to generate 40N+ in yaw and reduce the sensitivity from losing 11% of downforce from straight to a yaw angle of 6 to losing only 3%. 
+
+  However there is a flaw to this design, due to the stronger upper vortex of the inboard it is actually pulling the tire wake and unwanted vortex from the front wing into the duct, which cause a decrease in mass flow to the radiator thus decreasing cooling. 
+
+  With new iteration in development,
+    I am planning to lower the heght of the inboard inorder to generate the vortex at a lower height, or turn the inboard into a flat plate in the x plane, however this would weaken the upper vortex. 
+    - Criteria moving foward
+      - Lower the upper vortex, or move it further away from the duct
+      - Make it easier to manufracture
+      - Make it easier to mount
+        - Due to the curve geometry we cannot mount it the same way that we did last year, thus either the curvature need to change or a 3D adapter will need to be made, however this would also increase the weight of a already heavy aero package. Thus I have to look for a simplier design that still uphold the performance.
+  
+  
 
 
 
