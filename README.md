@@ -23,7 +23,12 @@ Reference: Willem Toet, “Motorsport Diffusers,” Racetech Magazine, 2017.
 (https://www.racetechmag.com/2017/08/willem-toet-explains-motorsport-diffusers/)
 
 ### Constraint
-  Because the deflector mounts around the A-arm and runs very close to the ground, the design uses a modular, multi-panel approach with localized doubler plates and through-bolt attachments to prevent fastener shear-out in the carbon-fiber honeycomb sandwich. Sacrificial UHMW skid strips and aramid-reinforced outer plies protect the laminate from abrasion and low-energy ground strikes; skids are bolted to backing plates so they are quickly replaceable. Fastener regions are either through-bolted to a backing plate or use bonded aluminum doublers with stainless steel threaded inserts to spread bearing loads and prevent core crush. All quick-release hardware is installed over doublers and captive nut plates to enable rapid service while preserving structural integrity. The assembly is validated with coupon shear tests and on-vehicle scrape trials; inspection intervals and torque specs are documented for race reliability.
+  Because the deflector mounts around the A-arm and runs very close to the ground, the design uses a modular, multi-panel approach with localized doubler plates and through-bolt attachments to prevent fastener shear-out in the carbon-fiber honeycomb sandwich. Sacrificial UHMW skid strips and aramid-reinforced outer plies protect the laminate from abrasion and low-energy ground strikes; skids are bolted to backing plates so they are quickly replaceable. Fastener regions are either through-bolted to a backing plate or use bonded aluminum doublers with stainless steel threaded inserts to spread bearing loads and prevent core crush. All quick-release hardware is installed over doublers and captive nut plates to enable rapid service while preserving structural integrity. In order to test the mounting and the height of the deflector, we made flat plate deflector that is the same size as the curve ones, to see how much will scrap off and does the deflector survibe the impact.
+<p align="center">
+  
+<img width="575" height="344" alt="Screenshot 2025-12-08 at 12 50 07 AM" src="https://github.com/user-attachments/assets/b1c4496e-de7f-4fc3-9fc7-462c59fb0b07" />
+
+</p>
 
 
 ## CFD Images of Baseline Design
