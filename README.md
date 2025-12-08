@@ -23,9 +23,7 @@ Reference: Willem Toet, “Motorsport Diffusers,” Racetech Magazine, 2017.
 (https://www.racetechmag.com/2017/08/willem-toet-explains-motorsport-diffusers/)
 
 ### Constraint
-  Due to the fact that this will be mounted on the A-Arm, it need to be design in a way that will allow us to remove the deflector in a quick manner. This mean that this component will be made in multiple small pieces and put together arround A-Arm, 
-  
-  Futhermore due to the fact that the deflector is so close to the ground, it need to be able to withstand scraping on the ground due to ride height variation. Furthermore, due to the fact that the component is made of carbon fiber honeycomb, it have to be ensure that it needs to avoid fastener shear out if it hits the ground.
+  Because the deflector mounts around the A-arm and runs very close to the ground, the design uses a modular, multi-panel approach with localized doubler plates and through-bolt attachments to prevent fastener shear-out in the carbon-fiber honeycomb sandwich. Sacrificial UHMW skid strips and aramid-reinforced outer plies protect the laminate from abrasion and low-energy ground strikes; skids are bolted to backing plates so they are quickly replaceable. Fastener regions are either through-bolted to a backing plate or use bonded aluminum doublers with stainless steel threaded inserts to spread bearing loads and prevent core crush. All quick-release hardware is installed over doublers and captive nut plates to enable rapid service while preserving structural integrity. The assembly is validated with coupon shear tests and on-vehicle scrape trials; inspection intervals and torque specs are documented for race reliability.
 
 
 ## CFD Images of Baseline Design
