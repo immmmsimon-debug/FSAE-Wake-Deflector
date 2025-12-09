@@ -37,7 +37,10 @@ Reference: Willem Toet, “Motorsport Diffusers,” Racetech Magazine, 2017.
 The results show a vortex forming near the deflector and propagating toward the side channel inlet. The high-speed circular region in the CPt plot confirms vortex formation. However, the vortex weakens and dissipates before reaching the end of the side channel, indicating a loss of potential downforce. <br />
 
 
-https://github.com/user-attachments/assets/6df0616a-7128-4ec6-8536-f26ac41c4163
+
+
+https://github.com/user-attachments/assets/b7ffb7f3-22c6-420c-961b-e3214d9e8f9d
+
 
 
   
